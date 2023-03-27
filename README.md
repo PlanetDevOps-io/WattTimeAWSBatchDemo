@@ -1,4 +1,4 @@
-# Reduce c02 for AWS Batch with load-shifting
+# Reduce CO2 emissions for AWS Batch with load-shifting
 
 This application demonstrates the use of the WattTime API to strategically trigger AWS Batch jobs at sustainability-optimized times. By doing so, it helps reduce CO2 emissions based on the electrical grid load, ultimately contributing to a more environmentally friendly operation.
 
