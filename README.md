@@ -58,3 +58,12 @@ Install the required dependencies:
 Deploy the stack:
 
 ```cdk deploy```
+
+
+## Wait for the results
+Now the long wait for the execution during the day based on your threshold begins.
+
+When the trigger executes it will send you an email like this to notify you of the execution:
+![email](email.png)
+In the meantime read more about the WattTime API and the idea behind it here:
+[WattTime introduction](https://www.watttime.org/api-documentation/#introduction)
